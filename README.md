@@ -20,6 +20,8 @@
 
 ## Usage
 
+⚠️ It should only be used for testing purposes, like for unit-testing. ⚠️
+
 It's important that the class you want to instantiate is a subclass of `NSObject`.
 
 ```swift
@@ -34,6 +36,9 @@ do {
 ```
 
 ## Requirements
+- iOS 13.0+
+- Xcode 14.0
+- Swift 5.7
 
 ## Installation
 ### Swift Package Manager
