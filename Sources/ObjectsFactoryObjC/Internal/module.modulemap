@@ -1,0 +1,6 @@
+framework module ObjectsFactory {
+    umbrella header "ObjectsFactory.h"
+
+    export *
+    module * { export * }
+}
