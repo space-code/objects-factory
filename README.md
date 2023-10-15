@@ -5,6 +5,7 @@
 <a href="https://developer.apple.com/swift"><img alt="5.7" src="https://img.shields.io/badge/language-Swift5.7-orange.svg"/></a>
 <a href="https://github.com/space-code/objects-factory"><img alt="CI" src="https://github.com/space-code/objects-factory/actions/workflows/ci.yml/badge.svg?branch=main"></a>
 <a href="https://github.com/apple/swift-package-manager" alt="objects-factory on Swift Package Manager" title="objects-factory on Swift Package Manager"><img src="https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg" /></a>
+<a href="https://codecov.io/gh/space-code/objects-factory"><img alt="CodeCov" src="https://codecov.io/gh/space-code/objects-factory/graph/badge.svg?token=NSI8N7Q9JB"></a>
 </p>
 
 ## Description
